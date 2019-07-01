@@ -1,17 +1,18 @@
 module.exports = {
-  title: 'Dev Blog', // Required
-  author: 'Ryan Fitzgerald', // Required
-  description: 'Full-stack Web Developer',
+  title: 'The Dev Theatre', // Required
+  author: 'The Dev Theatre', // Required
+  tagline: 'James Seconde',
+  description: 'Developer Advocate / Speaker / Writer',
   primaryColor: '#3498db', // Required
   showHeaderImage: true,
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
-    website: 'https://ryanfitzgerald.ca',
-    github: 'https://github.com/ryanfitzgerald',
-    twitter: 'https://twitter.com/ryanafitzgerald',
-    linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald',
+    about: '/about',
+    github: 'https://github.com/secondejk',
+    twitter: 'https://twitter.com/secondej',
+    linkedin: 'https://www.linkedin.com/in/secondej',
   },
-  pathPrefix: '/devblog',
-  siteUrl: 'https://ryanfitzgerald.github.io/devblog/',
+  pathPrefix: '/',
+  siteUrl: 'https://devtheatre.io',
 };
