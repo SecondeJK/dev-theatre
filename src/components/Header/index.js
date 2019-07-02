@@ -5,6 +5,7 @@ import Container from '../Container';
 import HeaderImage from '../HeaderImage';
 import Social from '../Social';
 import H1 from '../H1';
+import TITLE from '../TITLE';
 import H2 from '../H2';
 import P from './P';
 import Link from './Link';
@@ -19,7 +20,7 @@ function Header({ config }) {
         {userConfig.showHeaderImage && (
           <HeaderImage/>
         )}
-        <H1><Link to="/">{author}</Link></H1>
+        <TITLE><Link to="/">{author}</Link></TITLE>
         <H2>{tagline}</H2>
         <P>{description}</P>
         {social &&
