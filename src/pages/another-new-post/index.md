@@ -1,12 +1,12 @@
 ---
-title: My Second Post!
-date: "2018-06-29"
+title: Beginning Journeys
+date: "2019-07-02"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consectetur dolor metus, in semper purus tempus nec. Nunc porta maximus nisi eget tempus. Maecenas tellus ligula, porttitor ut ligula vitae, porta malesuada libero. Fusce at pharetra diam. Sed eget erat nibh. Nulla condimentum eros a nisi placerat, nec ultrices arcu dictum. Vestibulum nec elementum mi, id tempor ligula. 
+It's been a long time coming, but we're finally here: a site to contain my writing in the world of tech and info on my speaking.
 
-Etiam ut lectus ac quam facilisis sodales. Donec laoreet justo id diam aliquet aliquet. Vivamus arcu est, varius in erat non, pharetra pulvinar magna. Fusce quis elementum nulla.
+I already have a few subjects in my head right now, so will gradually get content out from my existing writing with my current employer and an in-depth article on the subject of my current UK talk on elisitm/gatekeeping in the world of tech.
+
+Thanks go out to the excellent Ryan Fitzgerald for his great starter framework for a basic blog in GatsbyJS. While this site is a fork of it, I'll gradually customise and refactor it over time to add new features, but as a starter to the slightly steep learning curve of Gatsby it's been fantastic. Once Gatsby's power of React components compiling, Markdown parsing when building and it's brilliant GraphQL API Data layer is on show, it really shines.
 
 ![Train Tracks](./traintrack.jpg)
-
-Nullam tristique ante quis gravida aliquet. Donec elementum, leo eu interdum mattis, erat quam vestibulum nunc, nec convallis eros risus ut enim. Sed maximus odio tincidunt velit congue molestie. Nunc in pharetra eros, id pulvinar justo. Pellentesque quis accumsan leo. Praesent efficitur magna a posuere viverra. Morbi sit amet tincidunt mauris. Vestibulum sed maximus felis.
