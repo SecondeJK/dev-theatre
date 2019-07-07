@@ -32,7 +32,7 @@ function About() {
           <P>
             I run Birmingham's PHP usergroup, brumPHP, and co-run a quarterly tech
             conference, Fusion Birmingham. I write microservices for Shopify in
-            Laravel and Vue.js for EastsideCo in Digbeth, Birmingham.
+            Laravel and Vue.js for Eastside Co in Digbeth, Birmingham.
           </P>
         </Container>
       </Wrapper>

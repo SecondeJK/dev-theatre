@@ -55,7 +55,7 @@ class BlogPostTemplate extends React.Component {
             )}
           </Card>
 
-          {/* <PageNav>
+          { <PageNav>
             {previous && (
               <Button to={previous.fields.slug} rel="prev">
                 ← {previous.frontmatter.title}
@@ -67,7 +67,7 @@ class BlogPostTemplate extends React.Component {
                 {next.frontmatter.title} →
               </Button>
             )}
-          </PageNav> */}
+          </PageNav> }
         </Container>
       </Layout>
     );
