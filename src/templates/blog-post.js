@@ -2,11 +2,8 @@ import {graphql} from 'gatsby';
 import Helmet from 'react-helmet';
 import get from 'lodash/get';
 import React from 'react';
-
 import userConfig from '../../config';
-
 import Layout from './layout';
-
 import Article from '../components/Article';
 import ArticleHeader from '../components/ArticleHeader';
 import Button from '../components/Button';
@@ -57,7 +54,7 @@ class BlogPostTemplate extends React.Component {
               <Share url={url} title={post.frontmatter.title} />
             )}
           </Card>
-          
+
           {/* <PageNav>
             {previous && (
               <Button to={previous.fields.slug} rel="prev">

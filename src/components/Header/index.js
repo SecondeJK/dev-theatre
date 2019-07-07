@@ -5,7 +5,8 @@ import Container from '../Container';
 import HeaderImage from '../HeaderImage';
 import Social from '../Social';
 import H1 from '../H1';
-import TITLE from '../TITLE';
+import Home_Title from '../Home_Title';
+import Home_Name from '../Home_Name';
 import H2 from '../H2';
 import P from './P';
 import Link from './Link';
@@ -20,8 +21,8 @@ function Header({ config }) {
         {userConfig.showHeaderImage && (
           <HeaderImage/>
         )}
-        <TITLE><Link to="/">{author}</Link></TITLE>
-        <H2>{tagline}</H2>
+        <Home_Title><Link to="/">{author}</Link></Home_Title>
+        <Home_Name>{tagline}</Home_Name>
         <P>{description}</P>
         {social &&
           <Social
@@ -32,7 +33,7 @@ function Header({ config }) {
           />
         }
       </Wrapper>
-    </Container> 
+    </Container>
   );
 }
 
