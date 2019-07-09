@@ -8,7 +8,7 @@ Sometimes we really do over-engineer things.
 
 <!-- end -->
 
-_This article was originally written by me for Eastside Co's blog: you can find the original here_
+_This article was originally written by me for Eastside Co's blog: you can find the original [here](https://eastsideco.com/blog/black-friday-technical-view)_
 
 **“Right, what are we going to use...Sentry? Pagerduty? Have we got an account? What do you mean, we’ve not set up auto-scaling groups? OK, have we got time to create them instead of manually spinning up AMI EC2s?”**
 
