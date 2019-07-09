@@ -8,7 +8,7 @@ Basic building blocks for an integration with Shopify's API using Laravel.
 
 <!-- end -->
 
-_This article was originally written by me for Eastside Co's blog: you can find the original here_
+_This article was originally written by me for Eastside Co's blog: you can find the original [here](https://eastsideco.com/blog/developing-shoth-laravel-php)_
 
 The Shopify platform contains a whole host of built in functionality. However, thanks to its fully featured REST and GraphQL API access, it also has a thriving app store with a huge range of plug-ins designed to enhance Shopify store functionality in many ways. I'll talk you through a Shopify app development tutorial to help you get started on making your own Shopify app, using the Laravel PHP framework.
 
