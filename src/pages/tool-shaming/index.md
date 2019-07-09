@@ -22,4 +22,6 @@ Dates for my talk **Bro, do you even code? The Politics of Tool-Shaming**:
 
 - 2019-10-23: Worcester Source, Worcester
 
+- 2019-11-05: PHPNW, Manchester
+
 - TBD: PHP South Wales, Cardiff
