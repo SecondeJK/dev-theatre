@@ -8,7 +8,7 @@ Continuing to build integrations with Shopify, using Polaris & Vue.js
 
 <!-- end -->
 
-_This article was originally written by me for Eastside Co's blog: you can find the original here_
+_This article was originally written by me for Eastside Co's blog: you can find the original [here](https://eastsideco.com/blog/how-build-vuejs-shopify-frontend-app-polaris)_
 
 Note: this article is about building a Vue.js single page app on top of the Laravel app created in this article. Before reading this, make sure you’ve read the previous article about building an app with Laravel as we’ll be using that existing code.
 
