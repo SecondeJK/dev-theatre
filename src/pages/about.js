@@ -16,24 +16,16 @@ function About() {
       <Wrapper>
         <Container>
           <H2>Hi, I'm James!</H2>
-          <P>
-            My whole life has been straddling the worlds of theatre, writing and
-            software development. As an Developer Advocate, I see an
-            emerging new world of software development that needs shouting about,
-            that needs shaping to find it's way and that needs to fit into a digital
-            puzzle of diciplines.
-          </P>
-          <P>
-            I'm a graduate in English Literature and Theatre, and have been an
-            actor, a Technical Manager at a London theatre, A Data Analyst with
-            Microsoft & Oracle SQL tooling and a Web Developer. At one time I
-            pretended to be a DJ.
-          </P>
-          <P>
+          <p>
+            From Theatre Graduate, to QA, to SQL Data Analytics, to Web Developer, to Developer Advocate.
+            From the stage and back to the stage, I sit in a happy medium between tech and theatre. I also
+            pretended to be a <a href="https://drive.google.com/open?id=0B2almTqbTKrIeDBMUjNMRkNITDQ">DJ</a> on the way.
+          </p>
+          <p>
             I run Birmingham's PHP usergroup, brumPHP, and co-run a quarterly tech
             conference, Fusion Birmingham. I write microservices for Shopify in
-            Laravel and Vue.js for Eastside Co in Digbeth, Birmingham.
-          </P>
+            Laravel and Vue.js for Eastside Co in Digbeth, Birmingham. I speak on tech and culture.
+          </p>
         </Container>
       </Wrapper>
     </Layout>
