@@ -1,7 +1,6 @@
 module.exports = {
   title: 'The Dev Theatre', // Required
-  author: 'The Dev Theatre', // Required
-  tagline: 'James Seconde',
+  author: 'James Seconde', // Required
   description: 'Developer Advocate / Speaker / Writer',
   primaryColor: '#660099', // Required
   showHeaderImage: true,
