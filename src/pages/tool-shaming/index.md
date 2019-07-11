@@ -33,4 +33,4 @@ PS. I don't care about emacs or vim. Can you ship it?
 
 - 2019-11-05: PHPNW, Manchester
 
-- TBD: PHP South Wales, Cardiff
+- TBD, December: PHP South Wales, Cardiff
