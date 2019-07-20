@@ -1,14 +1,10 @@
 # James Seconde - The Dev Theatre
 
-### This is a scaffold static site in Gatsby.js
-
-#### It's a work in progress, so what it will encompass is
-
-1. Gatsby.js data query layer with GraphQL with the last 5 posts
-2. Integration with Semantic UI for styling
-3. Query filter by Month
-4. Search function
-5. Netlify deploy hooks.
-
 #### I'm a developer advocate in infinite training. Watch me learn and build stuff.
+
+This is forked from Ryan Fitzgerald's excellent Gatsby blog template.
+It's deployed by Netlify, and will eventually contain a couple of modified features such as a React menu and videos page.
+
+Visit the deployed site! https://devtheatre.net
+
 
