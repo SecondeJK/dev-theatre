@@ -33,4 +33,6 @@ PS. I don't care about emacs or vim. Can you ship it?
 
 - 2019-11-05: PHPNW, Manchester
 
+- 2019-11-19: CraftCoders, Coventry
+
 - TBD, December: PHP South Wales, Cardiff
