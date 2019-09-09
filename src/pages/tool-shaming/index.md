@@ -35,4 +35,6 @@ PS. I don't care about emacs or vim. Can you ship it?
 
 - 2019-11-19: CraftCoders, Coventry
 
+- 2019-11-28 Front End Sheffield, Sheffield
+
 - TBD, December: PHP South Wales, Cardiff
