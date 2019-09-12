@@ -19,13 +19,13 @@ PS. I don't care about emacs or vim. Can you ship it?
 
 **Bro, do you even code? The Politics of Tool-Shaming - Dates**:
 
-- 2019-06-18: brumJS, Birmingham
+~~- 2019-06-18: brumJS, Birmingham~~
 
-- 2019-07-04: PHP London, London
+~~- 2019-07-04: PHP London, London~~
 
-- 2019-08-08: PHPMiNDS, Nottingham
+~~- 2019-08-08: PHPMiNDS, Nottingham~~
 
-- 2019-09-11: PHPSW, Bristol
+~~- 2019-09-11: PHPSW, Bristol~~
 
 - 2019-10-02: NorDev, Norwich
 
@@ -38,3 +38,7 @@ PS. I don't care about emacs or vim. Can you ship it?
 - 2019-11-28 Front End Sheffield, Sheffield
 
 - TBD, December: PHP South Wales, Cardiff
+
+- 2020-01-28 Wordpress Birmingham, Birmingham
+
+- TBD, February: ACCU, CodeNode@SkillsMatter, London
