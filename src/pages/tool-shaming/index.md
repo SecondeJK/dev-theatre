@@ -41,4 +41,4 @@ PS. I don't care about emacs or vim. Can you ship it?
 
 - 2020-01-28 Wordpress Birmingham, Birmingham
 
-- TBD, February: ACCU, CodeNode@SkillsMatter, London
+- 2020-02-26: ACCU, CodeNode@SkillsMatter, London
