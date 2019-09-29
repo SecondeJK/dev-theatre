@@ -1,7 +1,7 @@
 ---
 title: PsySh: More than REPL
 date: "2019-09-29"
-featuredImage: './genericShell.jpg'
+featuredImage: './commandline.png'
 ---
 
 A wildly underused tool for a full application shell.
