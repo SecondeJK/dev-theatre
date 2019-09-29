@@ -28,7 +28,7 @@ jimseconde@jim-amd-u18$: php -a
 ##### Node
 ```
 jimseconde@jim-amd-u18$: node
-> console.log(234 / ‘hello world’)
+> console.log(234 / 3)
 ```
 
 ##### Python3
@@ -49,7 +49,7 @@ jimseconde@jim-amd-u18$: node
 > console.log(bark(barkNoise)
 ReferenceError: bark is not defined
 > import { bark } from './app/some_functions/myFunctions.js'
-> console.log(bark(barkNoise)
+> console.log(bark(barkNoise))
 woof
 ```
 
