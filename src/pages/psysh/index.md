@@ -82,7 +82,7 @@ have a look at four areas we use it here at EastsideCo to interact with our apps
 
 In previous blog posts, I've written how to use composer to get our REST API wrapper.
 When coding your app, developers use it to fetch and push whatever your app requires 
-in it’s business logic to interact with your Shopify store. It’s baked into your app’s code though, 
+in its business logic to interact with your Shopify store. It’s baked into your app’s code though, 
 so using something like Postman or Insomnia to manually query the API would be better suited for 
 quick queries. With PsySh though, the API is now -just available-. Even better, you may
  have extended the API wrapper with bespoke functionality - now that’s available too. For example:
