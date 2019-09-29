@@ -1,5 +1,5 @@
 ---
-title: PsySh - More than REPL
+title: PsySh - More than just REPL
 date: "2019-09-29"
 featuredImage: './commandline.png'
 ---
@@ -16,7 +16,7 @@ Most backend developers know about interactive modes, that certainly isn’t a s
 
 ```jimseconde@jim-amd-u18$: python3```
 
-All give you an active interpreter. It’s used mostly for testing or confirming behaviour on the fly - ironically because you have a mountain of code in the middle of your app, your linter isn’t picking up on anything suspicious and exceptions are being thrown where you don’t want. Perhaps you want to look at how something is type juggling instead - again, your linter can’t help you with that.
+All give you an active interpreter for that respective language. It’s used mostly for testing or confirming behaviour on the fly - ironically because you have a mountain of code in the middle of your app, your linter isn’t picking up on anything suspicious and exceptions are being thrown where you don’t want. Perhaps you want to look at how something is type juggling instead - again, your linter can’t help you with that.
 
 ##### PHP
 ```
