@@ -34,7 +34,7 @@ jimseconde@jim-amd-u18$: node
 ##### Python3
 ```
 jimseconde@jim-amd-u18$: python3
-> echo(‘give me a string’ . 3424)
+> print(‘give me a string’ . 3424)
 ```
 
 While an active interpreter is useful, it has one major limitation: it’s the standard 
