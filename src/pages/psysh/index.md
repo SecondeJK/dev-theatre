@@ -46,7 +46,7 @@ So we’d have to import anything we want to test line by line:
 ```
 jimseconde@jim-amd-u18$: node
 > barkNoise = 'woof'
-> console.log(bark(barkNoise)
+> console.log(bark(barkNoise))
 ReferenceError: bark is not defined
 > import { bark } from './app/some_functions/myFunctions.js'
 > console.log(bark(barkNoise))
