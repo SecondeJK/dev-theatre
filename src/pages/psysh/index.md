@@ -99,7 +99,7 @@ quick queries. With PsySh though, the API is now -just available-. Even better, 
 ```
 jimseconde@jim-amd-u18$: php artisan tinker
 >>> $api = new \EastsideCo\Shopify();
->>> $shopifyProduct = $api->get(‘admin/products/324235.json’)->products;
+>>> $shopifyProduct = $api->get('admin/products/324235.json')->products;
 >>> $localProduct = new \App\Product::create($shopifyProduct);
 >>> $localProduct->save();
 ```
@@ -114,10 +114,10 @@ loaded in PsySh, technically this is exactly what has happened). So, whatever cu
 methods you’ve coded are now available - for example:
 
 ```
->>> $blogPayload = [‘09012938’,’My new blog post’];
+>>> $blogPayload = ['09012938','My new blog post'];
 >>> \App\API::createBlogPost($blogPayload);
 true
->>> $api->fetchImagesByVariantId(‘90812309’)
+>>> $api->fetchImagesByVariantId('90812309')
 ```
  
 ##### Laravel’s Eloquent ORM interaction
@@ -133,9 +133,9 @@ into the ORM and run that.
 Examples:
 ```
 jimseconde@jim-amd-u18$: php artisan tinker
->>> \DB::select(SELECT * FROM products WHERE id = 4’)->get();
+>>> \DB::select(SELECT * FROM products WHERE id = 4)->get();
 >>> \App\Product::find(342)
->>> \App\Variants::where(‘sku’, ‘like’, ‘TABLE1’)->get();
+>>> \App\Variants::where('sku', 'like', 'TABLE1')->get();
 ```
 
 ##### Laravel’s Storage driver
@@ -146,10 +146,10 @@ take the File Storage system that is built on top of the powerful [Flysystem](ht
 Let’s imagine you need to extract a specific SQL query for data analysis.
 
 ```
->>> $dataQuery = \DB::(SELECT a.id, a.title, b.title, b.price, b.sku from products a INNER JOIN variants b on a.id = b.product_id)->get();
+>>> $dataQuery = \DB::('SELECT a.id, a.title, b.title, b.price, b.sku from products a INNER JOIN variants b on a.id = b.product_id')->get();
 >>> // $dataQuery is a select query returned as a .json
 >>> // dump out the data to the storage path
->>> \Storage::disk(‘local’)->put(‘datadump.json’, $dataQuery);
+>>> \Storage::disk('local')->put('datadump.json', $dataQuery);
 ```
 
 On your server, your query result json is now written to `/storage/app` 
@@ -161,7 +161,7 @@ the other drivers - such as the AWS S3 one. Want to send the same
  payload into an S3 bucket? Sure!
 
 ```
->>> \Storage::disk(‘s3’)->put(‘datadump.json’, $dataQuery);
+>>> \Storage::disk('s3')->put('datadump.json', $dataQuery);
 ```
 
 ##### Dispatching Jobs or Events
@@ -173,7 +173,7 @@ you can use PsySh to do routine maintenance or to debug the application structur
 Here’s an example of fetching an order by the API, then firing an event to the queue listeners:
 
 ```
->>> $orderToCancel = $api->get(‘admin/orders/32448.json’);
+>>> $orderToCancel = $api->get('admin/orders/32448.json');
 >>> // fire event to the queue to cancel the job
 >>> Event::dispatch(new CancelOrderJob($orderToCancel));
 ```
