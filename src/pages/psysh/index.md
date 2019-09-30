@@ -64,7 +64,7 @@ available during runtime.
 
 #### From PHP interactive shell to PsySh
 
-We’ve already established that php -a just spins up a raw shell. But - what if we 
+We’ve already established that `php -a` just spins up a raw shell. But - what if we 
 could spin up a shell that uses composer’s autoloader to throw the whole app into memory, 
 then gives you your command line? If you did that, every single class and all the 
 functionality of your app sudden becomes available!
@@ -142,7 +142,7 @@ jimseconde@jim-amd-u18$: php artisan tinker
 
 Here’s another example of where PsySh can be really powerful. 
 Every Laravel class that comes with the Framework is now available - so, let’s 
-take the File Storage system that is built on top of the powerful Flysystem PHP library. 
+take the File Storage system that is built on top of the powerful [Flysystem](https://flysystem.thephpleague.com/docs) PHP library. 
 Let’s imagine you need to extract a specific SQL query for data analysis.
 
 ```
@@ -152,7 +152,7 @@ Let’s imagine you need to extract a specific SQL query for data analysis.
 >>> \Storage::disk(‘local’)->put(‘datadump.json’, $dataQuery);
 ```
 
-On your server, your query result json is now written to /storage/app 
+On your server, your query result json is now written to `/storage/app` 
 (if you’ve still using the defaults, otherwise it will be written to the 
 configured path for the local driver). 
 
