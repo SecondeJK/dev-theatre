@@ -73,10 +73,18 @@ This is exactly what PsySh does. In Symfony or Slim, you can get it using compos
 composer require psysh. In Laravel, a version of it comes out of the box, named tinker. 
 You can fire it up using php artisan tinker.
 
+It's also worth noting that in tinker, not only has composer autoloaded every class, it's also fired Laravel's entry point to the app, including all of the bootstrapped features - so, features like the Service Container and Config are available:
+```
+jimseconde@jim-amd-u18$: php artisan tinker
+>>> config('app.my_awesome_variable');
+>>> $myPusherService = app()->make('PusherService');
+>>> $myPusherService->pushToQueue(['send me']);
+```
+
 #### More than debugging: 4 use cases
 
 PsySh is usually described as a debugger, but I’d say it’s a lot more powerful than that. Let’s 
-have a look at four areas we use it here at EastsideCo to interact with our apps:
+have a look at four areas it can be used to interact with our apps:
 
 ##### Shopify API library
 
