@@ -58,7 +58,7 @@ woof
 While it looks like a daunting name, PSR-4 is just the specification for how code is structured, 
 allowing a modular component system in your php app. At runtime, composer uses an autoloader 
 system to get every class you’ve got in your app and loads it into that php thread in memory. 
-This is why when you code something in, for example, Slim, Laravel or Symfony, you can use an 
+This is why when you code something in, for example, [Slim](https://www.slimframework.com), [Laravel](https://laravel.com) or [Symfony](https://symfony.com), you can use an 
 import to get a class from -somewhere else- in your app, and because of autoloading, it’s 
 available during runtime.
 
@@ -69,11 +69,12 @@ could spin up a shell that uses composer’s autoloader to throw the whole app i
 then gives you your command line? If you did that, every single class and all the 
 functionality of your app sudden becomes available!
 
-This is exactly what PsySh does. In Symfony or Slim, you can get it using composer: 
-composer require psysh. In Laravel, a version of it comes out of the box, named tinker. 
-You can fire it up using php artisan tinker.
+This is exactly what PsySh does. In [Symfony](https://symfony.com) or [Slim](https://www.slimframework.com), you can get it using composer: 
+`composer require psysh`. In [Laravel](https://laravel.com), a version of it comes out of the box, named `tinker`. 
+You can fire it up using `php artisan tinker`.
 
 It's also worth noting that in tinker, not only has composer autoloaded every class, it's also fired Laravel's entry point to the app, including all of the bootstrapped features - so, features like the Service Container and Config are available:
+
 ```
 jimseconde@jim-amd-u18$: php artisan tinker
 >>> config('app.my_awesome_variable');
@@ -88,10 +89,10 @@ have a look at four areas it can be used to interact with our apps:
 
 ##### Shopify API library
 
-In previous blog posts, [I've written how to use composer to get a REST API wrapper](https://devtheatre.net/shopify-laravel).
-When coding your app, developers use it to fetch and push whatever your app requires 
-in its business logic to interact with a Shopify store. It’s baked into your app’s code though, 
-so using something like Postman or Insomnia to manually query the API would be better suited for 
+In previous blog posts, [I've written how to use composer to get a REST API wrapper.](https://devtheatre.net/shopify-laravel).
+The wrapper is used to fetch and push whatever your app requires 
+in its business logic to interact with a Shopify store (in this case). It’s baked into your app’s code though, 
+so using something like [Postman](https://www.getpostman.com) or [Insomnia](https://insomnia.rest) to manually query the API would be better suited for 
 quick queries. With PsySh though, the API is now -just available-. Even better, you may
  have extended the API wrapper with bespoke functionality - now that’s available too. For example:
  
@@ -103,7 +104,7 @@ jimseconde@jim-amd-u18$: php artisan tinker
 >>> $localProduct->save();
 ```
 
-You'll notice that PsySh also gives you interactive feedback. If you call the Eloquent save() function for instance,
+You'll notice that PsySh also gives you interactive feedback. If you call the Eloquent `save()` function for instance,
 as long as the entity passes validation, it will return and print true below. In the case of an API response or the
 result of a database query, it'll return and print a json array of the response, even if it's been set to a variable.
 
@@ -166,7 +167,7 @@ the other drivers - such as the AWS S3 one. Want to send the same
 ##### Dispatching Jobs or Events
 
 If your app makes extensive use of the Job queue system (currently
-I use AWS’s SQS messaging system for Job queues, and use Redis for broadcasting 
+I use AWS’s SQS messaging system for Job queues, and use [Redis](https://redis.io) for broadcasting 
 events over websockets) or has a more a complex Event-driven architecture system, 
 you can use PsySh to do routine maintenance or to debug the application structure. 
 Here’s an example of fetching an order by the API, then firing an event to the queue listeners:
@@ -177,7 +178,7 @@ Here’s an example of fetching an order by the API, then firing an event to the
 >>> Event::dispatch(new CancelOrderJob($orderToCancel));
 ```
 
-I've found the power of an interactive shell like this to be invaluable in day-to-day Operations. For more
+I've found the power of an interactive shell like this to be invaluable in day-to-day operations. For more
 information on PsySh and tinker, check out the docs and repos:
 
 https://psysh.org/
@@ -185,5 +186,7 @@ https://psysh.org/
 https://github.com/bobthecow/psysh
 
 https://github.com/laravel/tinker
+
+To see an example of the same kind of enhanced REPL power outside of PHP, I recommend having a look at how Python's [Django](https://www.djangoproject.com) implements the same patterns using `manage.py`, its console system.
 
 Happy shelling!
