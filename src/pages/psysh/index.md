@@ -80,9 +80,9 @@ have a look at four areas we use it here at EastsideCo to interact with our apps
 
 ##### Shopify API library
 
-In previous blog posts, I've written how to use composer to get our REST API wrapper.
+In previous blog posts, [I've written how to use composer to get a REST API wrapper](https://devtheatre.net/shopify-laravel).
 When coding your app, developers use it to fetch and push whatever your app requires 
-in its business logic to interact with your Shopify store. It’s baked into your app’s code though, 
+in its business logic to interact with a Shopify store. It’s baked into your app’s code though, 
 so using something like Postman or Insomnia to manually query the API would be better suited for 
 quick queries. With PsySh though, the API is now -just available-. Even better, you may
  have extended the API wrapper with bespoke functionality - now that’s available too. For example:
@@ -157,8 +157,8 @@ the other drivers - such as the AWS S3 one. Want to send the same
 
 ##### Dispatching Jobs or Events
 
-If your app makes extensive use of the Job queue system (at Eastside Co 
-we use AWS’s SQS messaging system for Job queues, and use Redis for broadcasting 
+If your app makes extensive use of the Job queue system (currently
+I use AWS’s SQS messaging system for Job queues, and use Redis for broadcasting 
 events over websockets) or has a more a complex Event-driven architecture system, 
 you can use PsySh to do routine maintenance or to debug the application structure. 
 Here’s an example of fetching an order by the API, then firing an event to the queue listeners:
