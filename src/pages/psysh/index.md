@@ -187,6 +187,6 @@ https://github.com/bobthecow/psysh
 
 https://github.com/laravel/tinker
 
-To see an example of the same kind of enhanced REPL power outside of PHP, I recommend having a look at how Python's [Django](https://www.djangoproject.com) implements the same patterns using `manage.py`, its console system.
+To see an example of the same kind of enhanced REPL power outside of PHP, I recommend having a look at how Python's [Django](https://www.djangoproject.com) implements the same patterns using `manage.py shell`.
 
 Happy shelling!
