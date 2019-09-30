@@ -21,8 +21,8 @@ All give you an active interpreter for that respective language. It’s used mos
 ##### PHP
 ```
 jimseconde@jim-amd-u18$: php -a
-> $foo = ‘342’;
-> $bar = ‘give me a string’;
+> $foo = '342';
+> $bar = 'give me a string';
 > var_dump($foo + $bar);
 ```
 ##### Node
@@ -34,7 +34,7 @@ jimseconde@jim-amd-u18$: node
 ##### Python3
 ```
 jimseconde@jim-amd-u18$: python3
-> print(‘give me a string’ . 3424)
+> print('give me a string' . 3424)
 ```
 
 While an active interpreter is useful, it has one major limitation: it’s the standard 
@@ -70,7 +70,7 @@ then gives you your command line? If you did that, every single class and all th
 functionality of your app sudden becomes available!
 
 This is exactly what PsySh does. In [Symfony](https://symfony.com) or [Slim](https://www.slimframework.com), you can get it using composer: 
-`composer require psysh`. In [Laravel](https://laravel.com), a version of it comes out of the box, named `tinker`. 
+`composer require psy/psysh`. In [Laravel](https://laravel.com), a version of it comes out of the box, named `tinker`. 
 You can fire it up using `php artisan tinker`.
 
 It's also worth noting that in tinker, not only has composer autoloaded every class, it's also fired Laravel's entry point to the app, including all of the bootstrapped features - so, features like the Service Container and Config are available:
