@@ -1,7 +1,7 @@
 ---
 title: On tour - The Politics of Tool Shaming
 date: "2019-06-17"
-featuredImage: './phplondon.jpeg'
+featuredImage: './phpsw.jpeg'
 ---
 
 Currently touring the UK.
