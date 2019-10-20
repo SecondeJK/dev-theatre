@@ -1,6 +1,6 @@
 ---
 title: On tour - The Politics of Tool Shaming
-date: "2019-06-17"
+date: "2019-10-20"
 featuredImage: './phpsw.jpeg'
 ---
 
