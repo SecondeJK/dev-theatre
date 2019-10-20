@@ -36,3 +36,13 @@ PS. I don't care about emacs or vim. Can you ship it?
 - 2020-01-28 Wordpress Birmingham, Birmingham
 
 - 2020-02-26: ACCU, CodeNode@SkillsMatter, London
+
+
+---
+
+
+Below is a recording of the talk's debut at BrumJS, Birmingham on 2019-06-18:
+
+ <video style="width:640px; height:320px; text-align: center" src="https://tool-shaming.s3-eu-west-1.amazonaws.com/code_360p.mp4" controls="">
+Use an HTML5 video tag compatible browser to view this video.
+</video> 
