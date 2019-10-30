@@ -29,7 +29,7 @@ PS. I don't care about emacs or vim. Can you ship it?
 
 ~~- 2019-10-02: NorDev, Norwich~~
 
-- 2019-10-23: Worcester Source, Worcester
+~~- 2019-10-23: Worcester Source, Worcester~~
 
 - 2019-11-19: CraftCoders, Coventry
 
