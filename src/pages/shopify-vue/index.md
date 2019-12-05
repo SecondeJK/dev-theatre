@@ -339,4 +339,4 @@ The `<polaris-resource-list>` however is a more complex component - it takes a p
 
 And there we are - a list of products plugged into Vue Polaris.
 
-You can find a working copy of this demo code on our repo at https://github.com/EastsideCo/polaris-vue.
+You can find a working copy of this demo code on our repo at https://github.com/EastsideCo/blog-shopify-vue
