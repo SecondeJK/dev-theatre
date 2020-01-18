@@ -22,9 +22,10 @@ function About() {
               pretended to be a <a href="https://drive.google.com/open?id=0B2almTqbTKrIeDBMUjNMRkNITDQ">DJ</a> on the way.
             </P>
             <P>
-              I run Birmingham's PHP usergroup, brumPHP, and co-run a quarterly tech
-              conference, Fusion Birmingham. I write microservices for Shopify in
-              Laravel and Vue.js for Eastside Co in Digbeth, Birmingham. I speak on tech and culture.
+              I founded Birmingham's current PHP usergroup, brumPHP, and co-run a quarterly tech
+              conference, Fusion Birmingham. I teach under-represented groups of people at Codebar.
+              I write microservices for Shopify integrations in
+              Laravel and Vue.js deployed to AWS. I speak on tech and culture, and study Developer Relations strategy & implementation.
             </P>
         </Container>
       </Wrapper>
