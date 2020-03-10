@@ -11,6 +11,7 @@ module.exports = {
     github: 'https://github.com/secondejk',
     twitter: 'https://twitter.com/secondej',
     linkedin: 'https://www.linkedin.com/in/secondej',
+    radio: '/choose'
   },
   pathPrefix: '/',
   siteUrl: 'https://devtheatre.io',
