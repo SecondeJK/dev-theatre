@@ -33,13 +33,13 @@ PS. I don't care about emacs or vim. Can you ship it?
 
 ~~- 2019-11-18: CraftyCoders, Coventry~~
 
-- 2020-01-21 Wordpress Birmingham, Birmingham
+~~- 2020-01-21 Wordpress Birmingham, Birmingham~~
 
-- 2020-01-30 FES, Sheffield
+~~- 2020-01-30 FES, Sheffield~~
 
-- 2020-02-20 LeicesterJS, Leicester
+~~- 2020-02-20 LeicesterJS, Leicester~~
 
-- 2020-02-26: ACCU, CodeNode@SkillsMatter, London
+~~- 2020-02-26: ACCU, CodeNode@SkillsMatter, London~~ (Cancelled)
 
 - 2020-02-28: NorDev Conference, Norwich
 
