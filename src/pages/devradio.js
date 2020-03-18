@@ -13,7 +13,7 @@ function DevRadio() {
                 <P> Welcome to The Dev Radio! A music show straight from the basement of your local record shop.</P>
                 <br/>
                 <div>
-                    <P>001: Welcome!</P>
+                    <P>001</P>
                     <AUDIO
                         controls
                         src="https://devtheatre.s3-eu-west-1.amazonaws.com/The+Dev+Radio+001.mp3">
@@ -21,6 +21,18 @@ function DevRadio() {
                         <code>audio</code> element.
                     </AUDIO>
                     <form method="get" action="https://devtheatre.s3-eu-west-1.amazonaws.com/The+Dev+Radio+001.mp3">
+                        <input type="submit" value="Download" />
+                    </form>
+                </div>
+                        <div>
+                    <P>002</P>
+                    <AUDIO
+                        controls
+                        src="https://devtheatre.s3-eu-west-1.amazonaws.com/The+Dev+Radio+001.mp3">
+                        Your browser does not support the
+                        <code>audio</code> element.
+                    </AUDIO>
+                    <form method="get" action="https://devtheatre.s3-eu-west-1.amazonaws.com/The+Dev+Radio+002.mp3">
                         <input type="submit" value="Download" />
                     </form>
                 </div>
