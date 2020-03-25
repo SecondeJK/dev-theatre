@@ -4,13 +4,14 @@ import Container from '../components/Container';
 import H1 from '../components/H1';
 import AUDIO from "../components/Audio";
 import P from "../components/P";
+import jim from "../../static/jimrecords.jpg"
 
 function DevRadio() {
     return (
         <Layout>
             <Container>
                 <H1>The Dev Radio Podcast</H1>
-                <img src={'jimrecords.jpg'}></img>
+                <img src={jim}></img>
                 <P> Welcome to The Dev Radio! A music show straight from the basement of your local record shop.</P>
                 <br/>
                 <div>
