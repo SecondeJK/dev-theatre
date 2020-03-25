@@ -8,8 +8,9 @@ import P from "../components/P";
 function DevRadio() {
     return (
         <Layout>
-            <Container>
+            <img>
                 <H1>The Dev Radio Podcast</H1>
+                <img src={'../../static/jimrecords.jpg'}></img>
                 <P> Welcome to The Dev Radio! A music show straight from the basement of your local record shop.</P>
                 <br/>
                 <div>
