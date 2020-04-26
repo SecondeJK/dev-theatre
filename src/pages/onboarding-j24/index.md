@@ -12,12 +12,12 @@ Almost every tech company is facing unprecedented challenges during the COVID-19
 
 I would argue that one of the biggest indicators of how well you’re set up to deal with this is onboarding new staff. As a Developer Advocate that endlessly discusses Developer Experience, what better test could there be for Jump24 than me starting out there?
 
-It became clear that discussing my experience of onboarding virtually at Jump24 are actually massive hot topics across tech right now with the ongoing COVID-19 crisis, so let’s dive into each one.
+It became clear that discussing my experience of onboarding virtually deals with a lot of  hot topics across tech right now with the ongoing COVID-19 crisis, so let’s dive into each one.
 
 ## Communications
 Communications are undoubtedly the first hurdle we face, and inevitably bring in the biggest blocker for remote working across the entire industry: trust.
 
-Trusting your developers to get on with what they’re doing and balancing hands off vs. micromanagement is absolutely vital. There’s two factors that should determine your strategy for this:
+Trusting your developers to get on with what they’re doing and balancing hands off vs. micromanagement is absolutely vital. There are two factors that should determine your strategy for this:
 
 * The experience levels of your developers
 * Scale of company
