@@ -30,7 +30,7 @@ Jump24 has made communication rules simple to adhere to:
 * All movements away from machine communicated on Slack
 * Clockify removes the need for micromanagement
 * Make time for each other (Skype calls, screenshare debugging)
-* Always time for sprint retros & kickoffs?
+* Always time for sprint retros & kickoffs
 
 It seems so simple, doesn’t it? But that’s because it is! Companies such as Automattic have [absolutely nailed down the way they communicate on Slack](https://qz.com/694410/automattic-has-figured-out-the-right-tools-for-remote-working/) which is to be as explicit and verbal as possible. Providing we all stick to doing that, everything falls into place.
 
