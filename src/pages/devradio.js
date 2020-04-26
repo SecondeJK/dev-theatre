@@ -22,9 +22,6 @@ function DevRadio() {
                         Your browser does not support the
                         <code>audio</code> element.
                     </AUDIO>
-                    <form method="get" action="https://devtheatre.s3-eu-west-1.amazonaws.com/The+Dev+Radio+001.mp3">
-                        <input type="submit" value="Download" />
-                    </form>
                 </div>
                 <div>
                     <P>002</P>
@@ -34,9 +31,6 @@ function DevRadio() {
                         Your browser does not support the
                         <code>audio</code> element.
                     </AUDIO>
-                    <form method="get" action="https://devtheatre.s3-eu-west-1.amazonaws.com/The+Dev+Radio+002.mp3">
-                        <input type="submit" value="Download" />
-                    </form>
                 </div>
                 <div>
                     <P>003</P>
@@ -46,9 +40,42 @@ function DevRadio() {
                         Your browser does not support the
                         <code>audio</code> element.
                     </AUDIO>
-                    <form method="get" action="https://devtheatre.s3-eu-west-1.amazonaws.com/The+Dev+Radio+003.mp3">
-                        <input type="submit" value="Download" />
-                    </form>
+                </div>
+                <div>
+                    <P>004</P>
+                    <AUDIO
+                        controls
+                        src="https://devtheatre.s3-eu-west-1.amazonaws.com/The+Dev+Radio+004.mp3">
+                        Your browser does not support the
+                        <code>audio</code> element.
+                    </AUDIO>
+                </div>
+                <div>
+                    <P>005</P>
+                    <AUDIO
+                        controls
+                        src="https://devtheatre.s3-eu-west-1.amazonaws.com/The+Dev+Radio+005.mp3">
+                        Your browser does not support the
+                        <code>audio</code> element.
+                    </AUDIO>
+                </div>
+                <div>
+                    <P>006</P>
+                    <AUDIO
+                        controls
+                        src="https://devtheatre.s3-eu-west-1.amazonaws.com/The+Dev+Radio+006.mp3">
+                        Your browser does not support the
+                        <code>audio</code> element.
+                    </AUDIO>
+                </div>
+                <div>
+                    <P>007</P>
+                    <AUDIO
+                        controls
+                        src="https://devtheatre.s3-eu-west-1.amazonaws.com/The+Dev+Radio+007.mp3">
+                        Your browser does not support the
+                        <code>audio</code> element.
+                    </AUDIO>
                 </div>
             </Container>
         </Layout>
