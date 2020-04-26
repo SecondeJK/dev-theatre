@@ -1,10 +1,10 @@
 ---
-title: On tour - The Politics of Tool Shaming
+title: Talk - The Politics of Tool Shaming
 date: "2019-10-20"
 featuredImage: './phpsw.jpeg'
 ---
 
-Currently touring the UK.
+UK Tour on how to hamstring your business with elitism.
 
 <!-- end -->
 
