@@ -13,8 +13,8 @@ function DevRadio() {
                 <H1>The Dev Radio Podcast</H1>
                 <img src={jim}></img>
                 <P>I started collecting records back when I was 16, and found myself lost in all 
-        kinds of influences due to the DJs I would hear. So, in an attempt to replicate my heroes s
-        uch as Gilles Peterson, Andrew Weatherall, John Peel and Coldcut/Solid Steel, here is The Dev Radio, a 
+        kinds of influences due to the DJs I would hear. So, in an attempt to replicate my heroes such as
+        Gilles Peterson, Andrew Weatherall, John Peel and Coldcut/Solid Steel, here is The Dev Radio, a 
         show straight out the basement of your local record shop.</P>
                 <br/>
                 <div>
