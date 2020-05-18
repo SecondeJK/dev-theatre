@@ -2,7 +2,7 @@ import React from "react";
 import Layout from "../templates/layout";
 import Container from '../components/Container';
 import H1 from '../components/H1';
-import H5 from '../components/H5';
+import H2 from '../components/H2';
 import AUDIO from "../components/Audio";
 import P from "../components/P";
 import jim from "../../static/jimrecords.jpg"
@@ -107,7 +107,7 @@ function DevRadio() {
                         Your browser does not support the
                         <code>audio</code> element.
                     </AUDIO>
-                    <H5>Tracklist</H5>
+                    <H2>Tracklist</H2>
                     <ul>
                         <li>Ennio Morricone - L'estasi dell'oro [Capitol, 1966]</li>
                         <li>The Revolutionary Corps Of Teenage Jesus - Protection Rat [Creeping Bent, 1999]</li>
