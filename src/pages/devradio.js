@@ -98,6 +98,29 @@ function DevRadio() {
                         Your browser does not support the
                         <code>audio</code> element.
                     </AUDIO>
+                    <H2>Tracklist</H2>
+                    <ul>
+                        <li>Brad Derrick - Moons of Evening Star [Bethesda Softworks Inc, 2014]</li>
+                        <li>Visage - Fade to Grey (Orchestral) [August Day Recordings, 2014]</li>
+                        <li>Matters - The Square [Static Caravan, 2019]</li>
+                        <li>Adriano Celentano - Prisencólinensináinciúsol [Clan Celentano. 1972]</li>
+                        <li>Earl 16 - Children of the Most High [Sound of Thunder, 2018]</li>
+                        <li>Vladimir Cauchemar - (G)rave [Lokomotiv Sound, 2019]</li>
+                        <li>Spice Girls - Stop (Strech 'n' Vern's Rock n Roll Dub) [Virgin, 1998]</li>
+                        <li>Cradle of Filth - Temptation [Roadrunner, 2006]</li>
+                        <li>Flowdan - Shell a Verse [Tru Thoughts, 2018]</li>
+                        <li>Sunforest - And I Was Blue [Deram, 1969]</li>
+                        <li>Paul Draper - Who's Wearing The Trousers (Live) [Kscope, 2018]</li>
+                        <li>Half Man Half Biscuit - Asparagus Next Left [Probe Plus, 2005]</li>
+                        <li>Cilla Black - Dancing in the Street [Parlaphone, 1965]</li>
+                        <li>Kelly Lee Owens - Let It Go [Smalltown Supersound, 2019]</li>
+                        <li>The Specials - 10 Commandments [Island, 2019]</li>
+                        <li>2 Lone Swordsman - Shack 54 [Rotters Golf Club, 2007]</li>
+                        <li>Lyn Collins - Think (About It) [Mojo, 1972]</li>
+                        <li>William Oneyearbor - Fantastic Man [Luaka Bop, 2013]</li>
+                        <li>The Joubert Singers - Stand on the Word [Next Plateau Records Inc, 1985]</li>
+                        <li>Coctau Twins - Iceblink Luck [4AD, 1990]</li>
+                    </ul>
                 </div>
                 <div>
                     <P>001</P>
