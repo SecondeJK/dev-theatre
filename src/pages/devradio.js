@@ -80,6 +80,26 @@ function DevRadio() {
                         Your browser does not support the
                         <code>audio</code> element.
                     </AUDIO>
+                    <H2>Tracklist</H2>
+                    <ul>
+                        <li>Max Richter - Spring 1 [Deutsche Grammophon, 2014]</li>
+                        <li>Slowdive - Star Roving [Dead Oceans, 2017]</li>
+                        <li>BadBadNotGood - Confessions Pt. II [Innovative Leisure Records, 2016]</li>
+                        <li>V-Ice - Hate [Liquid 8, 2001]</li>
+                        <li>Black Mountain - Horns Arising [Jagjaguwar, 2019]</li>
+                        <li>Redlight - City Jams [Hot Haus Recs, 2017]</li>
+                        <li>The Flaming Lips - Race for the Prize [Warner Bros, 1999]</li>
+                        <li>DJ Vadim ‎ - Lemon Haze [BBE, 2012]</li>
+                        <li>Mauro Picotto - Lizard (Picotto Mix) [BXR, 1997]</li>
+                        <li>Blackalicious - That Night [OGM Recordings, 2015]</li>
+                        <li>Hypnotic Brass Ensemble - Alyo [Honest Jon's Records, 2009]</li>
+                        <li>KH - Only Human [Ministry of Sound, 2019]</li>
+                        <li>Orchestre D'Harmonie de Lille-Fives feat. Monoblok - The Sky Was Pink (James Holden Remix) [Babaorum Records, 2013]</li>
+                        <li>Harry Belafonte - Jump in the Line (Shake, Senora) [RCA Victor, 1961]</li>
+                        <li>Mysterons - Bug Powder Dust [Excelsior Recordings, 2017]</li>
+                        <li>Sky Ferreira - Everything is Embarrssing (Unknown Mortal Orchesta Remix) [Capitol Records, 2014]</li>
+                        <li>The Horrors - Something to Remember Me By [Wolf Tone, 2017]</li>
+                    </ul>
                 </div>
                 <div>
                     <P>003</P>
