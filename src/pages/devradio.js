@@ -102,6 +102,32 @@ function DevRadio() {
                         Your browser does not support the
                         <code>audio</code> element.
                     </AUDIO>
+                    <H2>Tracklist</H2>
+                        <ul>
+                            <li>The Gordon Highlanders - Regimental March [Perfect, 1960]</li>
+                            <li>The Big Pink - Too Young to Love [4AD, 2009]</li>
+                            <li>Atari Teenage Riot - Reset [Digital Hardcore Recordings, 2015]</li>
+                            <li>Har Mar Superstar - EZ Pass [Record Collection, 2002]</li>
+                            <li>Lana Del Rey - Blue Jeans (Gesaffelstein Remix) [Interscope, 2012]</li>
+                            <li>Ana Tijoux - Somos Sur [Nacional Records, 2014]</li>
+                            <li>Panda Bear - Butcher Baker Candlestick Maker [Domino, 2015]</li>
+                            <li>Blackash - Anthropocene [Swordfish Records, 2016]</li>
+                            <li>Mungo's Hi Fi & Charlie P - Alphabet [Scotch Bonnet, 2015]</li>
+                            <li>Ivory Wave - Gold [Self-released, 2019]</li>
+                            <li>Tears for Fears - My Girls [INgrooves, 2014]</li>
+                            <li>Goldie - I Adore You (Total Science Remix) [Metalheadz 2017]</li>
+                            <li>Jane Weaver - The Architect [Fire Records, 2017]</li>
+                            <li>Luke Vibert - Acid 2000 [Planet Mu, 2002]</li>
+                            <li>ID - Acid 3000 [Label Worx, 2017]</li>
+                            <li>Fatboy Slim - Acid 8000 [Skint, 1998]</li>
+                            <li>Cid Rim feat. Samantha Urbani - Repeat [LuckyMe, 2017]</li>
+                            <li>Brand Nubian - Slow Down [Elektra, 1990]</li>
+                            <li>Mint Royale with Lauren Laverne - Don't Falter [Faith & Hope Records, 2000]</li>
+                            <li>Souja Boy - Soulja Boy Tell Em (Cousin Cole Remix) [Unreleased]</li>
+                            <li>Shellac - Dude Incredible [Touch And Go, 2014]</li>
+                            <li>Gonzales - Take Me To Broadway [Kitty-Yo, 2003]</li>
+                            <li>Amorphous Androgynous ‎– The Mello Hippo Disco Show [Future Sound Of London Recordings, 2002]</li>
+                    </ul>
                 </div>
                 <div>
                     <P>004</P>
