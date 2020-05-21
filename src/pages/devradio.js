@@ -80,6 +80,28 @@ function DevRadio() {
                         Your browser does not support the
                         <code>audio</code> element.
                     </AUDIO>
+                    <H2>Tracklist</H2>
+                <ul>
+                    <li>Michael Armstrong - Everything In Its Right Place [Rockabye Baby!, 2006]</li>
+                    <li>Nightmares on Wax - Deep Shadows (Moodymann Remix) [Warp, 2018]</li>
+                    <li>Aphrodite's Child - The Lamb [Vertigo, 1972]</li>
+                    <li>DJ Format & Abdominal - Behind The Scenes (Savage Henry Remix) [AAF, 2017]</li>
+                    <li>Marilyn Manson - Torniquet [Nothing, 1996]</li>
+                    <li>Freq Nasty - Amped [Skint, 2003]</li>
+                    <li>Ananda Shankar - Dancing Drums [HMV, 1975]</li>
+                    <li>DJ Food - The Illectrik Hoax [Ninja Tune, 2011]</li>
+                    <li>Halsey, Big Sean & Stefflon Don – Alone (Calvin Harris Remix) [Astralwerks, 2018]</li>
+                    <li>Lee 'Scratch' Perry - Bumpy Road of Life [Upsetter, 2018]</li>
+                    <li>Alabama 3 - W.O.M.B.L.E / This Is How We Build It [Hostage Music, 2013]</li>
+                    <li>DJ Shadow & Pusha T - Been Used Ta [Mass Appeal, 2019]</li>
+                    <li>Chaka Khan - Like a Lady [Island, 2019]</li>
+                    <li>David Brent & Foregone Conclusion - Equality Street [Caroline Records, 2016]</li>
+                    <li>Gabriel Ananda ‎- Süssholz [Basmati, 2011]</li>
+                    <li>Dodgy - U.K.R.I.P. [A&M, 1996]</li>
+                    <li>Lily Allen - Come On Then [Parlophone, 2018]</li>
+                    <li>Ray Noble And His Orchestra - Midnight, the Stars and You [Victor, 1934]</li>
+                    <li>Moby - God Moving Over The Face Of The Waters [Mute, 1995]</li>
+                </ul>
                 </div>
                 <div>
                     <P>004</P>
