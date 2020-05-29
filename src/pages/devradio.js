@@ -19,6 +19,38 @@ function DevRadio() {
         show straight out the basement of your local record shop.</P>
                 <br/>
                 <div>
+                    <P>012</P>
+                    <AUDIO
+                        controls
+                        src="https://devtheatre.s3-eu-west-1.amazonaws.com/The+Dev+Radio+012.mp3">
+                        Your browser does not support the
+                        <code>audio</code> element.
+                    </AUDIO>
+                <H2>Tracklist</H2>
+                <ul>
+                    <li>Vangelis - Rachel's Song [EastWest, 1994]</li>
+                    <li>Akira The Don - Blade Runner Theme [Living in the Future, 2017]</li>
+                    <li>Aguaturbia - Somebody to Love [Background, 1993]</li>
+                    <li>Mind Enterprises - Idol [Because Music, 2019]</li>
+                    <li>Caiman Super All Stars - Ban-Con-Tim [Caiman Records, 1984]</li>
+                    <li>Fat Jon & Styrofoam - Runnin' Circle [Morr Music, 2006]</li>
+                    <li>Mikey Dread - Give it a Chance [Dread At The Controls, 2002]</li>
+                    <li>Duran Duran Duran - Thacid Under [Power Vacuum, 2017]</li>
+                    <li>Tim Buckley - I Never Asked To Be Your Mountain [Elektra, 1967]</li>
+                    <li>Josefin Öhrn + The Liberation - I Can Feel It [Rocket Recordings, 2019]</li>
+                    <li>Kid Koala - Fender Bender [Ninja Tune, 2000]</li>
+                    <li>My Nu Leng - Levels [Black Butter Records, 2013]</li>
+                    <li>White Town - Your Woman 1917 [Bzangy Records, 2017]</li>
+                    <li>120 Days - Come Out, Come Down, Fade Out, Be Gone [Smalltown Supersound, 2006]</li>
+                    <li>Paul Hardcastle - 19 [Chrysalis, 1985]</li>
+                    <li>Proxy - Raven (Live Edit) [Turbo, 2008]</li>
+                    <li>Tim Dog - Fuck Compton (Vocal) [Ruffhouse Records, 1991]</li>
+                    <li>Rodriguez - Only Good for Conversation [Sussex, 1970]</li>
+                    <li>Faultline - Your Love Means Everything [Elektra, 2002]</li>
+                    <li>Levellers - Edge of the World [China Records, 2000]</li>
+                </ul>
+                </div>
+                <div>
                     <P>011</P>
                     <AUDIO
                         controls
