@@ -126,6 +126,29 @@ function DevRadio() {
                         Your browser does not support the
                         <code>audio</code> element.
                     </AUDIO>
+                    <H2>Tracklist</H2>
+                    <ul>
+                        <li>Curved Air - Armin [Warner Bros. Records, 1973]</li>
+                        <li>Delia Derbyshire Appreciation Society - She Brought the Sun [
+                        <li>Six Degrees Records, 2018]</li>
+                        <li>Miike Snow - Paddeling Out [Columbia, 2012]</li>
+                        <li>Jammer feat. Boy Better Know - 10 Man Roll [Big Dada, 2010]</li>
+                        <li>Shura - Side Effects (Jono Ma Cosmo Mix) [Secretly Canadian, 2020]</li>
+                        <li>Jon Kennedy - Return to Vysocina [Jon Kennedy Federation, 2020]</li>
+                        <li>Booth And The Bad Angel - Dance of the Bad Angels [Fontana, 1996]</li>
+                        <li>Hiem And Roots Manuva ‎– DJ Culture [Nang Records, 2013]</li>
+                        <li>GoGo Penguin - Atomised [Blue Note, 2020]</li>
+                        <li>Mel & Kim - Respectable (Alternative 12" Mix) [Cherry Pop, 2019]</li>
+                        <li>Ashford & Simpson - Bourgié Bourgié [Groovin Recordings, 2017]</li>
+                        <li>Amorphous Androgynous - The Chaser (Black Light Cinema Remix) [Monstrous Bubble Records, 2014]</li>
+                        <li>The Slits - I Heard It Through The Grapevine [Island, 1979]</li>
+                        <li>Battles - Hi/Lo [Monitor Records, 2004]</li>
+                        <li>Surgeon - Courage to Face Up To [Dynamic Tension Records, 2018]</li>
+                        <li>The Aloof - Sinking [EastWest, 1996]</li>
+                        <li>Fats Domino - When I'm Walking (Let Me Walk) [HMV, 1963]</li>
+                        <li>Alvvays - In Undertow [Transgressive Records, 2017]</li>
+                        <li>TOOL - Disposition [Volcano, 2001]</li>
+                    </ul>
                 </div>
                 <div>
                     <P>008</P>
