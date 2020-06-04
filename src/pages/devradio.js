@@ -129,8 +129,7 @@ function DevRadio() {
                     <H2>Tracklist</H2>
                     <ul>
                         <li>Curved Air - Armin [Warner Bros. Records, 1973]</li>
-                        <li>Delia Derbyshire Appreciation Society - She Brought the Sun [
-                        <li>Six Degrees Records, 2018]</li>
+                        <li>Delia Derbyshire Appreciation Society - She Brought the Sun [Six Degrees Records, 2018]</li>
                         <li>Miike Snow - Paddeling Out [Columbia, 2012]</li>
                         <li>Jammer feat. Boy Better Know - 10 Man Roll [Big Dada, 2010]</li>
                         <li>Shura - Side Effects (Jono Ma Cosmo Mix) [Secretly Canadian, 2020]</li>
