@@ -144,6 +144,29 @@ function DevRadio() {
                         Your browser does not support the
                         <code>audio</code> element.
                     </AUDIO>
+                    <ul>
+                        <li>Lights out Asia - These Worlds are Yours [n5MD, 2010]</li>
+                        <li>!!! - Freedom '15 [Warp, 2015]</li>
+                        <li>Unkle - Arms Length [Songs for the Def, 2017]</li>
+                        <li>Ozric Tenticles - Zingbong [Madfish, 2015]</li>
+                        <li>Earl Hooker - 2 Bugs and a Roach [Arhoolie, 1969]</li>
+                        <li>Rennie Pilgrem - Drop It (Original Extended) [TCR, 2013]</li>
+                        <li>Pachyman - 333 House [Mock Records, 2020]</li>
+                        <li>The Traffic - White Lines (Don't Do It) [Choi Records, 2016]</li>
+                        <li>Farrah Abrham - Unplanned Parenthood [Self-released, 2012]</li>
+                        <li>Melody's Echo Chamber - Shirim [Domino, 2018]</li>
+                        <li>Horsepower Productions - Water [Tempa, 2010]</li>
+                        <li>Warpaint - New Song [Rough Trade, 2016]</li>
+                        <li>Vuelveteloca - Cientologia & Altiplano [Fuzz Club Records, 2017]</li>
+                        <li>Chas & Dave - Rabbit [Rockney, 1980]</li>
+                        <li>King Adora - Suffocate [Superior Quality Records, 2001]</li>
+                        <li>Soweto Kinch - The Gaming House [Soweto Kinch, 2019]</li>
+                        <li>Jagwar Ma - OB1 [Future Classic, 2016]</li>
+                        <li>Juice Aleem - Higher Higher [Big Dada, 2009]</li>
+                        <li>The Wings - We'll Get You Home [Soul Jazz, 2017]</li>
+                        <li>The Polyphonic Spree - Section 33 (You Don't Know Me) [Good Records, 2013]</li>
+                        <li>Malcolm Middleton - Little Hurricane [Nude Records, 2016]</li>
+                    </ul>
                 </div>
                 <div>
                     <P>006</P>
