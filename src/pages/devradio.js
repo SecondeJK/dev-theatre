@@ -41,6 +41,7 @@ function DevRadio() {
                     <li>Oceansize - Heaven Alive [Beggars Banquet, 2005]</li>
                     <li>Matthew Halsall - The Traveller [Gondwana Records, 2019]</li>
                     <li>Marty Robbins - Big Iron [Columbia, 1959]</li>
+                    <li>Regular Fries - The Girls [Junior Boy's Own, 1998]</li>
                     <li>Marcus Marr - Familiar Five [DFA, 2018]</li>
                     <li>John Shuttleworth - One Cup of Tea is Never Enough (But 2 is 1 Too Many) [Free Range Product, 2017]</li>
                     <li>Force Mass Motion vs. Dylan Rhymes - Hold Back [Acetate,2002]</li>
