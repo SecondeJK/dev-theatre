@@ -30,6 +30,7 @@ function DevRadio() {
                 <ul>
                     <li>Gorillaz - M1 A1 [Parlophone, 2001]</li>
                     <li>Riz MC - Radar [Tru Thoughts, 2012]</li>
+                    <li>Scars - Horrorshow [Fast Product, 1979]</li>
                     <li>Pixies - Make Believe [4AD, 2001]</li>
                     <li>Easy Star All-Stars feat. Morgan Heritage - Electioneering [East Star Records, 2006]</li>
                     <li>Trans AM - Outmoder [Thrill Jockey, 2004]</li>
