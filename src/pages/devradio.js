@@ -388,7 +388,7 @@ function DevRadio() {
                         <li>Lyn Collins - Think (About It) [Mojo, 1972]</li>
                         <li>William Oneyearbor - Fantastic Man [Luaka Bop, 2013]</li>
                         <li>The Joubert Singers - Stand on the Word [Next Plateau Records Inc, 1985]</li>
-                        <li>Coctau Twins - Iceblink Luck [4AD, 1990]</li>
+                        <li>Cocteau Twins - Iceblink Luck [4AD, 1990]</li>
                     </ul>
                 </div>
                 <div>
