@@ -43,7 +43,7 @@ function DevRadio() {
                             <li>Bob's Burgers - Da Ding Ding [Sub Pop, 2017]</li>
                             <li>DJ Supreme feat. Ice T & The Icepick  - Arctic II [BackBone Records, 2017]</li>
                             <li>Captain Sensible - Happy Talk [A&M, 1982]</li>
-                            <li>Dimensional Holofonic Sound - House of God (Jack Dangers Mix) [Shadow Records, 2001]</li></li>
+                            <li>Dimensional Holofonic Sound - House of God (Jack Dangers Mix) [Shadow Records, 2001]</li>
                             <li>Sporto Kantès - Fuckin' Country [Green United Music, 2013]</li>
                             <li>Babymetal - Karate [Toy's Factory, 2016]</li>
                             <li>Justin Robertson's Deadstock 33's - If You Want To Get Into It [Skint, 2015]</li>
