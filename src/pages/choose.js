@@ -16,7 +16,7 @@ function Choose() {
                 find interesting). Both are currently in development.</P>
                 <br/>
                 <a href={'/devradio'}><H2>The Dev Radio</H2></a>
-                <H2>The Dev Theatre Podcast (In Production)</H2>
+                <a href={'/devtheatrepodcast'}><H2>The Dev Theatre Podcast</H2></a>
             </Container>
         </Layout>
     );

@@ -2,7 +2,7 @@ import React from 'react';
 import Link from 'gatsby-link';
 
 import Wrapper from './Wrapper';
-import imgSrc from '../../jim.png';
+import imgSrc from '../../Jim_PortCommission_02.jpg';
 
 function HeaderImage() {
   return (

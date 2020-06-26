@@ -3,14 +3,17 @@ import Layout from "../templates/layout";
 import Container from '../components/Container';
 import H1 from '../components/H1';
 import P from "../components/P";
+import setup from "../../static/devtheatre-setup.jpg";
 
 function DevTheatrePodcast() {
     return (
         <Layout>
             <Container>
                 <H1>The Dev Theatre Podcast</H1>
-                <P>The Dev Radio Podcast is currently under development, and will contain 30 minute interview slots
-                    with leading figures in the world of Developer Relations, Tech culture and Engineering.</P>
+                <br/>
+                <img src={setup}></img>
+                <P>DevOps, Developer Relations, Tech Culture,
+                    Nonsense - join me in episodes of the Dev Theatre Podcast, where I'll speak to my peers.</P>
             </Container>
         </Layout>
     );
